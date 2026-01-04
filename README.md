@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I’m a beginner developer with a growing interest in building meaningful applications and learning core programming concepts. I focus on developing practical solutions through hands-on projects, with an emphasis on improving problem-solving skills and understanding real-world applications.<br><br>🔭 I’m working on building logic-based projects in C and Python to solve real-world problems.<br>📚 I'm currently learning Web development, and mastering C/C++ and Python.<br>🌱 I’m collaborating on any beginner-friendly projects or coding challenges.<br>- ⚡ In my free time I solve logic puzzles, and experiment with new tools.</p>
+<p align="left">I’m a beginner developer with a growing interest in building meaningful applications and learning core programming concepts. I focus on developing practical solutions through hands-on projects, with an emphasis on improving problem-solving skills and understanding real-world applications.<br><br>🔭 I’m working on building logic-based projects in C and Python to solve real-world problems.<br>📚 I'm currently learning Web development, and mastering C/C++ and Python.<br>🌱 I’m collaborating on any beginner-friendly projects or coding challenges.<br>⚡ In my free time I solve logic puzzles, and experiment with new tools.</p>
 
 ###
 
