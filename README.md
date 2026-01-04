@@ -38,8 +38,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
+<br>
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Usman-Khan22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br><br>
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
@@ -50,3 +53,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Usman-Khan22&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=Usman-Khan22&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
