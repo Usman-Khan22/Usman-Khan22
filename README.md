@@ -12,20 +12,16 @@
 
 ###
 
-<h2 align="left">🌐 Connect with Me</h2>
+<h2 align="left">🌐 Connect with Me:</h2>
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usman-khan-71975a383) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsusmankhan53@gmail.com) 
+<br><br>
 
-<div align="left">
-  <img src="https://www.linkedin.com/in/usman-khan-71975a383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="25" alt="linkedin logo"  />
-  <img src="mailto:itsusmankhan53@gmail.com" height="25" alt="gmail logo"  />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman animation" />
 </div>
 
-###
-
 <h1 align="left">🛠️ Tech Stack:</h1>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -47,4 +43,6 @@
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
-###
+![](https://github-readme-stats.vercel.app/api?username=Usman-Khan22&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Usman-Khan22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-Khan22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
