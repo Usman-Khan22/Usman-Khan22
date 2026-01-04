@@ -43,6 +43,10 @@
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=Usman-Khan22&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Usman-Khan22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Usman-Khan22&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Usman-Khan22&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-Khan22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Usman-Khan22&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
